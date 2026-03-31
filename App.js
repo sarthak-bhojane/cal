@@ -1,7 +1,1 @@
-import React from 'react';
-const App = () => {
-  return (
-    <div>Hello World</div>
-  );
-};
-export default App;
+export default function App(){return <h1>create calculater with working functionality +,-,*,/ and also do proper styling</h1>}
